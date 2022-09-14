@@ -1,0 +1,15 @@
+{
+    "foodrink": [
+        {  
+           "id": 1,
+           "name": "Burger",
+           "description": "Tasty burger made to your liking with extra layer",
+           "image_url": "https://burgerrepublic.com/wp-content/uploads/2021/10/great-burger--1536x1157.jpeg"
+       },
+       { 
+           "id": 2,
+           "name": "Cake",
+           "description": "light, fluffy, tender, airy, tough, spongy, springy, finely crumbed",
+           "image_url": "https://img.freepik.com/premium-photo/tangerines-naked-cake-with-leaves-rustic-background_177613-3244.jpg?w=740"
+       },
+}
