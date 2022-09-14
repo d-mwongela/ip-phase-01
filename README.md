@@ -20,3 +20,12 @@ If you wish to access this projects source code in your local environment, you c
     You can also unzip the folder and open the unzipped folder using a code editor.
 
     To view how the website would look like open the index.html file using chrome or a browser of your choice.
+
+#### Resources used to create this website are;
+ HTML
+ CSS
+ JAVASCRIPT
+ DB.JSON
+
+ # License
+ This project is under the MIT license.
