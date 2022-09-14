@@ -12,4 +12,56 @@
            "description": "light, fluffy, tender, airy, tough, spongy, springy, finely crumbed",
            "image_url": "https://img.freepik.com/premium-photo/tangerines-naked-cake-with-leaves-rustic-background_177613-3244.jpg?w=740"
        },
+       {
+        "id": 3,
+        "name": "Ice-cream",
+        "description": "Sweet, frozen, and flavored to suit your taste buds just the way you like it!",
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F453291.jpg&w=596&h=596&c=sc&poi=face&q=60&orient=true"
+    },
+    {
+        "id": 4,
+        "name": "Fries",
+        "description": "Crispy seasoned fries",
+        "image_url": "https://tornadoughalli.com/wp-content/uploads/2022/07/TACO-BELL-NACHO-FRIES1-3.jpg"
+        
+    },
+    {
+        "id": 5,
+        "name": "Ribs",
+        "description": "These Smoked Ribs are so tender, juicy and fall off the bone, with tons of flavor and the addition of a honey and bbq sauce glaze",
+        "image_url": "https://tornadoughalli.com/wp-content/uploads/2022/04/SMOKED-RIBS-3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pizza",
+        "description": "The taste of does not compare",
+        "image_url": "https://tornadoughalli.com/wp-content/uploads/2020/04/CAST-IRON-SKILLET-PIZZA-3.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Shamrock shake",
+        "description": "It's tasty, smooth with the right ingredients, it's fun, it's Shamrock",
+        "image_url": "https://tornadoughalli.com/wp-content/uploads/2022/01/SHAMROCK-SHAKE-RECIPE-2.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Strawberry Mojito",
+        "description": "It's crisp, refreshing, fruity with the perfect amount of bubbly to make your tastebuds zing",
+        "image_url": "https://tornadoughalli.com/wp-content/uploads/2022/05/STRAWBERRY-MOJITO-4.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Fried Chicken",
+        "description": "Delicious, crispy and mouth watering",
+        "image_url": "https://tornadoughalli.com/wp-content/uploads/2022/01/GRANDMAS-FRIED-CHICKEN-RECIPE-2.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Pizza Grilled Cheese",
+        "description": "Classic grilled cheese combined with layers of pepperoni and cheesy goodness and a garlic butter outside",
+        "image_url": "https://tornadoughalli.com/wp-content/uploads/2022/07/PIZZA-GRILLED-CHEESE-3.jpg"
+    }
+
+
+    ]
 }
