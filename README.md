@@ -1,13 +1,13 @@
-#Food Website
+# Food Website
 
-##Author
+## Author
 Mwongela Dennis
 
-###Project Description
+### Project Description
 
 This is a website that allows people to view different kinds of foods, desserts and drinks that they can order. The website allows the users to order what they like and the customers can leave reviews deending on how they enjoy their meals and drinks.
 
-Setup
+### Setup
 
 If you wish to access this projects source code in your local environment, you can clone it using this steps:
 
